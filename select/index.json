@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "MajiでKoiする5秒前",
+  "base_artist": "広末涼子",
+  "createdAt": "2026-02-18T12:29:47.537488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MajiでKoiする5秒前 [Demo Track]",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/01_MajiでKoiする5秒前_[Demo_Track]_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MajiでKoiする5秒前",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/02_MajiでKoiする5秒前_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MajiでKoiする5秒前",
+      "artist": "GING NANG BOYZ",
+      "has_synced": true,
+      "path": "select/03_MajiでKoiする5秒前_GING_NANG_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MajiでKoiする5秒前",
+      "artist": "Ryoko Hirosue",
+      "has_synced": true,
+      "path": "select/04_MajiでKoiする5秒前_Ryoko_Hirosue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MajiでKoiする5秒前",
+      "artist": "広末 涼子",
+      "has_synced": false,
+      "path": "select/pl_01_MajiでKoiする5秒前_広末_涼子.txt"
+    }
+  ]
+}
